@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{publications.html}
+== Publications 
+
+=== A full list of my publications is available on my [https://scholar.google.com/citations?user=lBTHgVsAAAAJ&hl=en Google Scholar] profile
+
+== Thesis
+1. *R. P. Martinez*, “[/phd_thesis.html Advancing mm-Wave GaN Technology Through Innovative Modeling Approaches],” Ph.D. Thesis, Stanford University, 2024.
+
+== Pre-Prints 
+1. *R. P. Martinez*, S. Boyd, and S. Chowdhury, "[/robust_pareto.html Robust Pareto Design of GaN HEMTs for Millimeter-Wave Applications]," [https://arxiv.org/abs/2406.17337 /arXiv:2406.17337/], 2024.
+
+2. *R. P. Martinez*, M. Iwamoto, K. Woo, Z. Bian, R. Tinti, S. Boyd, and S. Chowdhury, "[/dfo_parameter_extraction.html Compact Model Parameter Extraction via Derivative-Free Optimization]," [https://arxiv.org/abs/2406.16355 /arXiv:2406.16355/], 2024.
+
+== Selected Journal and Conference Papers
+1. *R. P. Martinez*, M. Iwamoto, A. B. Morgado, Y. Li, R. Tinti, J. Xu,  C. Gillease, S. Cochran, B. Shankar, E. Schmidt,  Z. Song, N. Wagner, P. Pahl, A. Petr, and S. Chowdhury, "A Hybrid Physical ASM-HEMT Model Using a Neural Network-Based Methodology," /Proc. IEEE BiCMOS Compound Semicond. Integr. Circuits Technol. Symp. (BCICTS)/, Oct. 2024.
+
+2. *R. P. Martinez*, M. Iwamoto, J. Xu, C. Gillease, S. Cochran, M. Culver, A. Cognata, N. Wagner, P. Pahl, and S. Chowdhury, "[https://www.researchgate.net/publication/377315141_Assessment_and_Comparison_of_Measurement-Based_Large-Signal_FET_Models_for_GaN_HEMTs Assessment and Comparison of Measurement-Based Large-Signal FET Models for GaN HEMTs]," /IEEE Trans. Microw. Theory Techn./, vol. 72, no. 5, pp. 2692-2703, May 2024, [https://doi.org/10.1109/TMTT.2023.3349172 doi:10.1109/TMTT.2023.3349172 ].
+
+3. K. Woo, Z. Bian, M. Noshin, and *R. P. Martinez*, M. Malakoutian, B. Shankar, S. Chowdhury, "[https://www.researchgate.net/publication/377642416_From_Wide_to_Ultrawide-Bandgap_Semiconductors_for_High_Power_and_High_Frequency_Electronic_Devices From wide to ultrawide-bandgap semiconductors for high power and high frequency electronic devices]," /J. Phys.: Mater/, vol. 7, no. 2, pp. 022003, Mar. 2024, [https://doi.org/10.1088/2515-7639/ad218b doi:10.1088/2515-7639/ad218b].
+
+4. H. Lu, M. Zhang, L. Yang, B. Hou, *R. P. Martinez*, M. Mi, J. Du, L. Deng, M. Wu, S. Chowdhury, X. Ma, Y. Hao, "[https://www.researchgate.net/publication/375920133_A_Review_of_GaN_RF_Devices_and_Power_Amplifiers_for_5G_Communication_Applications A Review of GaN RF Devices and Power Amplifiers for 5G Communication Applications]," /Fundam. Res./, Nov. 2023, [https://doi.org/10.1016/j.fmre.2023.11.005 doi:10.1016/j.fmre.2023.11.005].
+
+5. *R. P. Martinez*, M. Iwamoto, J. Xu, P. Pahl, and S. Chowdhury, "[https://www.researchgate.net/publication/372616236_Benchmarking_Measurement-Based_Large-Signal_FET_Models_for_GaN_HEMT_Devices Benchmarking Measurement-Based Large-Signal FET Models for GaN HEMT Devices]," /Proc. IEEE Radio Freq. Integr. Circuits Symp. (RFIC)/, San Diego, CA, USA, pp. 1-4, 2023 , [https://doi.org/10.1109/RFIC54547.2023.10186170doi:10.1109/RFIC54547.2023.10186170].
+
+6. *R. P. Martinez*, D. J. Munzer, B. Shankar, B. Murmann, and S. Chowdhury, "[https://www.researchgate.net/publication/369597836_Linearity_Performance_of_Derivative_Superposition_in_GaN_HEMTs_A_Device-to-Circuit_Perspective Linearity Performance of Derivative Superposition in GaN HEMTs: A Device-to-Circuit Perspective]," /IEEE Trans. Electron Devices/, vol. 70, no. 5, pp. 2247-2254, May 2023, [https://doi.org/10.1109/TED.2023.3259383 doi:10.1109/TED.2023.3259383].

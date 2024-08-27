@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{projects.html}
+= Projects
+
+~~~
+{}{img_left}{./images/parameter_ext.png}{}{280px}{}{}
+== Model Parameter Extraction for Semiconductors
+A method for extracting tens of parameters for compact models using derivative-free optimization is shown. This approach identifies good parameters efficiently without the need for extensive simulations. The effectiveness of this approach is demonstrated by modeling two semiconductor devices, showcasing the practical benefits of DFO in semiconductor device modeling.
+~~~
+
+~~~
+{}{img_left}{./images/pareto.png}{}{280px}{}{}
+== Multi-objective Optimization in Transistors
+A robust Pareto optimization approach for solving a multi-objective optimization problem is shown. Based on several design variables and multiple objectives, several designs were evaluated based on their worst-case performance under varying conditions. A derivative-free optimization (DFO) method was utilized to identify robust Pareto optimal solutions, providing insights into the trade-offs involved. This approach offers a practical solution for multi-objective optimization in various engineering scenarios with multiple design variables and objectives.
+~~~
+
+~~~
+{}{img_left}{./images/hemt.png}{}{280px}{}{}
+== Improved Transistor Modeling
+A comprehensive assessment was conducted on three transistor models (measurement-based models). These models were extracted and benchmarked against various types of measurements (DC and RF), demonstrating their robustness in MMIC design. Additionally, a hybrid transistor model was proposed to address the limitations of the previous three models. This hybrid physical model incorporates a neural network methodology to enhance the fitting accuracy across a wide range of operations. Its accuracy was validated through DC and RF measurements, highlighting its potential for advanced semiconductor modeling.
+~~~

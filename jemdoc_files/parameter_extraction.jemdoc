@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{parameter_extraction_project.html}
+\n
+==== Model Parameter Extraction for Semiconductors
+
+== Overview
+In this project, we [briefly describe the main goal or objective of the project]. This includes [mention any key aspects or features briefly].
+
+== Background
+Provide context and motivation for the project. Discuss the problem it addresses, relevant previous work, and why this project is significant. This section should set the stage for the reader to understand the importance of your work.
+
+== Objectives
+Outline the main goals and objectives of the project. These can be bullet points for clarity:
+- Objective 1: [Description]
+- Objective 2: [Description]
+- Objective 3: [Description]
+
+== Programming Languages Used
+List and describe the programming languages and any major libraries or frameworks used in the project:
+- **Language 1**: [Brief reason for choice or role in the project]
+- **Language 2**: [Brief reason for choice or role in the project]
+- **Framework/Library**: [Brief description of its use]
+
+== Results
+Summarize the main results and findings of the project. If applicable, include key metrics, performance improvements, or any significant outcomes:
+- Result 1: [Description]
+- Result 2: [Description]
+- Result 3: [Description]
+
+== Future Work
+Discuss potential future directions or improvements for the project. What are the next steps? Are there any unresolved issues or areas for further research?
+- Future Work 1: [Description]
+- Future Work 2: [Description]
+
+== Problem I am trying to solve
+
+== Outcomes (Papers)
+
+== Papers (Pre-print)
+- [https://arxiv.org/abs/2406.16355 Paper]
+- [https://github.com/rafapm/dfo_parameter_extraction Code]
+
+== Abstract
+{{In this paper, we address the problem of compact model parameter extraction to simultaneously extract tens of parameters via derivative-free optimization. Traditionally, parameter extraction is performed manually by dividing the complete set of parameters into smaller subsets, each targeting different operational regions of the device, a process that can take several days or even weeks. Our approach streamlines this process by employing derivative-free optimization to identify a good parameter set that best fits the compact model without performing an exhaustive number of simulations. We further enhance the optimization process to address critical issues in device modeling by carefully choosing a loss function that evaluates model performance consistently across varying magnitudes by focusing on relative errors (as opposed to absolute errors), prioritizing accuracy in key operational regions of the device above a certain threshold, and reducing sensitivity to outliers. Furthermore, we utilize the concept of train-test split to assess the model fit and avoid overfitting. This is done by fitting 80% of the data and testing the model efficacy with the remaining 20%. We demonstrate the effectiveness of our methodology by successfully modeling two semiconductor devices: a diamond Schottky diode and a GaN-on-SiC HEMT, with the latter involving the ASM-HEMT DC model, which requires simultaneously extracting 35 model parameters to fit the model to the measured data. These examples demonstrate the effectiveness of our approach and showcase the practical benefits of derivative-free optimization in device modeling.
+}}
+
+
+== Overview
+In this project, we [briefly describe the main goal or objective of the project]. This includes [mention any key aspects or features briefly].
+
+== Background
+Provide context and motivation for the project. Discuss the problem it addresses, relevant previous work, and why this project is significant. This section should set the stage for the reader to understand the importance of your work.
+
+== Objectives
+Outline the main goals and objectives of the project. These can be bullet points for clarity:
+- Objective 1: [Description]
+- Objective 2: [Description]
+- Objective 3: [Description]
+
+== Programming Languages Used
+List and describe the programming languages and any major libraries or frameworks used in the project:
+- **Language 1**: [Brief reason for choice or role in the project]
+- **Language 2**: [Brief reason for choice or role in the project]
+- **Framework/Library**: [Brief description of its use]
+
+== Results
+Summarize the main results and findings of the project. If applicable, include key metrics, performance improvements, or any significant outcomes:
+- Result 1: [Description]
+- Result 2: [Description]
+- Result 3: [Description]
+
+== Future Work
+Discuss potential future directions or improvements for the project. What are the next steps? Are there any unresolved issues or areas for further research?
+- Future Work 1: [Description]
+- Future Work 2: [Description]
+
+
