@@ -94,7 +94,7 @@ div#layout-menu {
 
 
 div#layout-content-container {
-	width: calc(100vw - 180.8px);
+	width: calc(100vw - 80.8px);
 	min-height: calc(100vh - 70px);
 	margin-left: 50px;
 	background: none;
