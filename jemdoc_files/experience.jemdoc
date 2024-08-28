@@ -2,12 +2,12 @@
 == Experience
 
 == Education
-*Stanford University*\n
+*Stanford University* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(140, 21, 21);" aria-hidden="true"></i>&nbsp; Stanford, CA</span><br>}}
 Ph.D. in Electrical Engineering {{<span style="float:right;">Sep. 2019 – Sep. 2024</span><br>}}
 M.S. in Electrical Engineering {{<span style="float:right;">Sep. 2019 – Jan. 2023</span><br>}}
 - *Ph.D. Thesis:* “[/phd_thesis.html Advancing mm-Wave GaN Technology Through Innovative Modeling Approaches]”
 
-*Georgia Institute of Technology* \n
+*Georgia Institute of Technology* {{<span style="float: right; color: rgb(0, 48, 87);"><i class="fa fa-map-marker" style="color: rgb(0, 48, 87);" aria-hidden="true"></i>&nbsp; Atlanta, GA</span><br>}}
 M.S. in Electrical and Computer Engineering {{<span style="float:right;">Jan. 2017 – May 2019</span><br>}}
 B.S. in Electrical Engineering (/summa cum laude/) {{<span style="float:right;">Aug. 2013 – Dec. 2016</span><br>}}
 
@@ -20,8 +20,9 @@ B.S. in Electrical Engineering (/summa cum laude/) {{<span style="float:right;">
 - *CS Coursework:* Convex Optimization, Deep Learning, Essential Software Systems and Tools, Linear Dynamical Systems, Machine Learning, Natural Language Processing, Scientific Python
 - *EE Coursework:* Advanced IC Design, Semiconductor Device Physics, Wide-Bandgap Semiconductor Devices
 
+
 == Professional Experience
-*Department of Electrical Engineering, Stanford University* {{<span style="float:right;">Stanford, CA</span><br>}}
+*Department of Electrical Engineering, Stanford University* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(140, 21, 21);" aria-hidden="true"></i>&nbsp; Stanford, CA</span><br>}}
 Graduate Research Fellow {{<span style="float:right;">Sep. 2019 – Sep. 2024</span><br>}}     
 #- Developed and validated a hybrid physical FET model augmented with neural networks, achieving improved S- and X-parameter accuracy and demonstrating the successful integration of machine learning with FET device modeling.
 #- Developed and executed a novel optimization framework for simultaneous extraction of over 30 model parameters in transistor compact modeling, reducing computational resource demands by 90% and enhancing model accuracy.
@@ -29,12 +30,13 @@ Graduate Research Fellow {{<span style="float:right;">Sep. 2019 – Sep. 2024</s
 #- Presented research work to a wide range of audiences in yearly industry reviews and IEEE technical conferences.
 #- Responsible for leading and writing (along with PI) two successful proposal calls resulting in more than $400,000 in funding for university research infrastructure.
 
-*Keysight Technologies, Inc.* {{<span style="float:right;">Santa Rosa, CA</span><br>}}
+*Keysight Technologies, Inc.* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(237, 28, 36);" aria-hidden="true"></i>&nbsp; Santa Rosa, CA
+</span><br>}}
 R&D Intern (Intern Technical IV - Master) {{<span style="float:right;">Summer 2022, Summer 2023</span><br>}} 
 #- Extracted and benchmarked three FET models, demonstrating innovative use of machine learning for precise modeling of I-V/Q-V relations and accurate simulation of thermal and trapping effects at mm-wave frequencies.
 #- Executed comprehensive RF characterization and model validation across varying geometries, biasing conditions, and ambient temperatures, utilizing Keysight PNA-X, NVNA, and load-pull for DC-IV, small-signal, and large-signal evaluation metrics, successfully ensuring high model accuracy at both device and MMIC levels.
 #- Designed and constructed an X-band load-pull test bench from scratch, enabling the accurate measurement and analysis of X-parameters for high-frequency device characterization.
 #- Presented and published research findings on using machine learning in FET device modeling at the /IEEE RFIC/ 2023 conference and in the /IEEE Transactions on Microwave Theory and Techniques/ journal, contributing to progress in the field.
 
-*School of Electrical and Computer Engineering, Georgia Tech* {{<span style="float:right;">Atlanta, GA</span><br>}}
+*School of Electrical and Computer Engineering, Georgia Tech* {{<span style="float: right; color: rgb(0, 48, 87);"><i class="fa fa-map-marker" style="color: rgb(0, 48, 87);" aria-hidden="true"></i>&nbsp; Atlanta, GA</span><br>}}
 Research Assistant {{<span style="float:right;">Aug. 2015 – Aug. 2019</span><br>}} 

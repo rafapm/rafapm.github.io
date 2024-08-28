@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{./images/parameter_ext.png}{}{280px}{}{}
 == Model Parameter Extraction for Semiconductors
-A method for extracting tens of parameters for compact models using derivative-free optimization is shown. This approach identifies good parameters efficiently without the need for extensive simulations. The effectiveness of this approach is demonstrated by modeling two semiconductor devices, showcasing the practical benefits of DFO in semiconductor device modeling.
+A method for extracting tens of parameters for compact models using derivative-free optimization (DFO) is shown. This approach identifies good parameters efficiently without the need for extensive simulations. The effectiveness of this approach is demonstrated by modeling two semiconductor devices, showcasing the practical benefits of DFO in semiconductor device modeling.
 ~~~
 
 ~~~

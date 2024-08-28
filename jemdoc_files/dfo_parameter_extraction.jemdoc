@@ -6,8 +6,8 @@
 [https://rafapm.com Rafael Perez Martinez], [https://scholar.google.com/citations?user=fA5lbHUAAAAJ&hl=en Masaya Iwamoto], [https://www.linkedin.com/in/kelly-woo/ Kelly Woo], [https://wbglab.stanford.edu/people/zhengliang-bian Zhengliang Bian], [https://www.linkedin.com/in/roberto-tinti-08699210/ Roberto Tinti], [https://stanford.edu/~boyd/ Stephen Boyd], and [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury]
 
 == Manuscript (Pre-print)
-- [https://arxiv.org/abs/2406.16355 Paper]
-- [https://github.com/rafapm/dfo_parameter_extraction Code]
+- [https://arxiv.org/pdf/2406.16355 {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
+- [https://github.com/rafapm/dfo_parameter_extraction {{<i class="fa fa-github-square" style="color: rgb(0, 3, 51);" aria-hidden="true">&nbsp;&nbsp;</i>}}Code]
 
 == Abstract
 In this paper, we address the problem of compact model parameter extraction 

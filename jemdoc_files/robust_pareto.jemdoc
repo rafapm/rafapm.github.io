@@ -6,8 +6,8 @@
 [https://rafapm.com Rafael Perez Martinez], [https://stanford.edu/~boyd/ Stephen Boyd], and [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury]
 
 == Manuscript (Pre-print)
-- [https://arxiv.org/abs/2406.17337 Paper]
-- [https://github.com/rafapm/robust_pareto_design Code]
+- [https://arxiv.org/pdf/2406.17337 {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
+- [https://github.com/rafapm/robust_pareto_design {{<i class="fa fa-github-square" style="color: rgb(0, 3, 51);" aria-hidden="true">&nbsp;&nbsp;</i>}}Code]
 
 == Abstract
 This paper introduces a robust Pareto design approach for transistor
