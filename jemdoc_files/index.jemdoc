@@ -4,24 +4,20 @@
 
 ~~~
 {}{img_left}{./images/rafapm_picture.jpg}{profile pic}{150px}{224px}{}
-\n
-Welcome to my personal website! I recently received my Ph.D. in Electrical Engineering from [https://stanford.edu Stanford University], primarily focusing on semiconductor modeling and
-optimization. I was advised by Prof. [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury] and worked closely with Prof. [https://stanford.edu/~boyd/ Stephen Boyd]. Before
-Stanford, I graduated from [https://gatech.edu Georgia Tech] with a B.S. and M.S. in Electrical Engineering. My current interests include semiconductor modeling, machine learning, optimization, and electronic design.
+Welcome to my personal website! I am originally from [https://www.oaxacaeatsfoodtours.com/blog/10-fascinating-facts-about-oaxaca/ Oaxaca, Mexico]. I recently completed my Ph.D. in Electrical Engineering at [https://stanford.edu Stanford University], where I focused on semiconductor modeling and optimization. I was advised by Prof. [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury] and worked closely with Prof. [https://stanford.edu/~boyd/ Stephen Boyd]. During my time at Stanford, I was also a [https://vpge.stanford.edu/fellowships-funding/sgf Stanford Graduate Fellow in Science & Engineering].
+
+My interests lie at the intersection of semiconductors and machine learning, particularly in using machine learning to make semiconductor modeling more effective and efficient. Leveraging a strong foundation in semiconductor device physics, circuit design, programming, machine learning, and optimization, I have applied these skills to conduct impactful research, resulting in over 20 publications in leading conferences and journals.
 ~~~
 
 == Biography
-Rafael Perez Martinez is originally from Oaxaca, Mexico. He received the B.S. degree (/summa cum laude/) in Electrical Engineering and the M.S. degree in Electrical and Computer engineering
-from the [https://gatech.edu Georgia Institute of Technology], Atlanta, GA, USA, in 2016 and 2019, respectively, and the M.S. and Ph.D. degrees in Electrical Engineering from
-[https://stanford.edu Stanford University], Stanford, CA, USA, in 2023 and 2024, respectively. 
+Rafael Perez Martinez is originally from [https://www.oaxacaeatsfoodtours.com/blog/10-fascinating-facts-about-oaxaca/ Oaxaca, Mexico]. He earned his M.S. and Ph.D. degrees in Electrical Engineering from [https://stanford.edu Stanford University], Stanford, CA, USA, in 2023 and 2024, respectively. During his time at Stanford, he was also a Stanford Graduate Fellow in Science & Engineering. He previously earned his B.S. degree in Electrical Engineering (/summa cum laude/) and M.S. degree in Electrical and Computer Engineering from the [https://gatech.edu Georgia Institute of Technology], Atlanta, GA, USA, in 2016 and 2019, respectively.
 
-Rafael was an R&D intern at [https://www.keysight.com/ Keysight Technologies, Inc.] during the summers of 2022 and 2023, where he primarily worked on GaN semiconductor modeling. 
-His current research interests semiconductor modeling, machine learning, optimization, and electronic design.
+He was an R&D Software Engineer and R&D Intern at [https://www.keysight.com/ Keysight Technologies, Inc.], where he primarily worked on AI/ML research and solutions for EDA applications and GaN semiconductor modeling.
 
-He has authored or co-authored more than 20 journal and conference publications. He is also the recipient of the [https://vpge.stanford.edu/fellowships-funding/sgf Stanford Graduate Fellowship in Science & Engineering].
+His research interests include semiconductor modeling, integrated circuit design, optimization, and machine learning. He has authored or co-authored over 20 journal and conference publications on these topics.
 
 == Contact
-{{<i class="fa fa-envelope-o" aria-hidden="true"></i>}} *Email:* [rafapm@stanford.edu]
+{{<i class="fa fa-envelope-o" aria-hidden="true"></i>}} *Email:* [rafapm@alumni.stanford.edu]
 
 {{<i style="color: rgb(0, 87, 158);" class="fa fa-globe" aria-hidden="true"></i>}} *Personal Website:* [https://rafapm.com]
 

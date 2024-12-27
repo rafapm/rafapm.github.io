@@ -6,31 +6,9 @@
 [https://rafapm.com Rafael Perez Martinez], [https://scholar.google.com/citations?user=fA5lbHUAAAAJ&hl=en Masaya Iwamoto], [https://www.linkedin.com/in/kelly-woo/ Kelly Woo], [https://wbglab.stanford.edu/people/zhengliang-bian Zhengliang Bian], [https://www.linkedin.com/in/roberto-tinti-08699210/ Roberto Tinti], [https://stanford.edu/~boyd/ Stephen Boyd], and [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury]
 
 == Manuscript (Pre-print)
-- [https://arxiv.org/pdf/2406.16355 {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
+- [https://ieeexplore.ieee.org/abstract/document/10662920 {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
 - [https://github.com/rafapm/dfo_parameter_extraction {{<i class="fa fa-github-square" style="color: rgb(0, 3, 51);" aria-hidden="true">&nbsp;&nbsp;</i>}}Code]
 
 == Abstract
-In this paper, we address the problem of compact model parameter extraction 
-to simultaneously extract tens of parameters via derivative-free optimization. 
-Traditionally, parameter extraction is performed manually by dividing the 
-complete set of parameters into smaller subsets, each targeting different 
-operational regions of the device, a process that can take several days or 
-weeks. Our approach streamlines this process by employing derivative-free 
-optimization to identify a good parameter set that best fits the compact model 
-without performing an exhaustive number of simulations. We further enhance the 
-optimization process to address critical issues in device modeling by carefully 
-choosing a loss function that ensures consistent model 
-performance across different orders of magnitude, focusing on relative errors 
-(as opposed to absolute errors), prioritizing accuracy in key operational regions 
-of the device above a certain threshold, and reducing sensitivity to outliers. 
-Furthermore, we utilize the concept of train-test split to assess the model fit 
-and avoid overfitting. We demonstrate the effectiveness of our 
-approach by successfully modeling a diamond Schottky diode with the SPICE diode 
-model and a GaN-on-SiC HEMT with the ASM-HEMT model. For the latter, which involves 
-extracting 35 parameters for the ASM-HEMT DC model, we identified the best set of 
-parameters in under 6,000 trials. Additional examples using both devices are 
-provided to demonstrate robustness to outliers, showing that an excellent fit 
-is achieved even with over 25\% of the data purposely corrupted. These examples 
-demonstrate the practicality of our approach, highlighting the benefits of 
-derivative-free optimization in device modeling.
+In this paper, we address the problem of compact model parameter extraction to simultaneously extract tens of parameters via derivative-free optimization. Traditionally, parameter extraction is performed manually by dividing the complete set of parameters into smaller subsets, each targeting different operational regions of the device, a process that can take several days or weeks. Our approach streamlines this process by employing derivative-free optimization to identify a good parameter set that best fits the compact model without performing an exhaustive number of simulations. We further enhance the optimization process to address three critical issues in device modeling by carefully choosing a loss function that focuses on relative errors rather than absolute errors to ensure consistent performance across different orders of magnitude, prioritizes accuracy in key operational regions above a specific threshold, and reduces sensitivity to outliers. Furthermore, we utilize the concept of train-test split to assess the model fit and avoid overfitting. We demonstrate the effectiveness of our approach by successfully modeling a diamond Schottky diode with the SPICE diode model and a GaN-on-SiC HEMT with the ASM-HEMT model. For the latter, which involves extracting 35 parameters for the ASM-HEMT DC model, we identified the best set of parameters in under 6,000 trials. Additional examples using both devices are provided to demonstrate robustness to outliers, showing that an excellent fit is achieved even with over 25% of the data purposely corrupted. These examples demonstrate the practicality of our approach, highlighting the benefits of derivative-free optimization in device modeling.
 

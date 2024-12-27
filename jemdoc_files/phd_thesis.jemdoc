@@ -5,9 +5,15 @@
 == Authors
 [https://rafapm.com Rafael Perez Martinez]
 
-== Documents (coming soon)
-- Dissertation
-- Defense slides
+== Documents
+- [https://searchworks.stanford.edu/view/in00000166571 Dissertation]
+- [files/phd_defense_slides.pdf Slides]
 
 == Abstract
-    Coming soon.
+    This Ph.D. dissertation addresses two major challenges in Gallium Nitride (GaN) technology: 1) enhancing the accuracy and reducing the extraction time of GaN compact models, and 2) optimizing crucial performance metrics at millimeter-wave (mm-wave) frequencies, including output power ($P_{out}$), power-added efficiency (PAE), linearity, and thermal performance. Initially, an overview of GaN technology is provided, including its historical development and system-level challenges at mm-wave frequencies. 
+    
+    The fundamentals of GaN High-Electron Mobility Transistors (HEMTs) are then explored by considering key performance metrics ranging from DC to small-signal to large-signal continuous wave (CW) performance. Non-idealities such as thermal and trapping effects are also addressed, along with a comprehensive review of the advantages and limitations of linearity performance metrics for GaN HEMTs. A review of existing GaN HEMT compact modeling solutions is then presented, focusing on empirical, measurement-based, and physics-based models. 
+    
+    Having established the various GaN compact models for use in circuit design, a robust Pareto design approach is proposed for sizing GaN HEMTs, utilizing robust optimization in the context of power amplifier (PA) and low-noise amplifier (LNA) circuit design applications. This approach involves simulating hundreds of designs and employing derivative-free optimization (DFO) to efficiently identify Pareto-optimal solutions. The use of DFO methods in device modeling is further demonstrated in the context of compact model parameter extraction, showcasing its capability in simultaneously extracting over 30 model parameters using the ASM-HEMT model. A loss function is proposed to address three key issues in device modeling: ensuring consistent model performance across different orders of magnitude, fitting the model accurately in critical operational regions, and providing robustness against outliers and measurement errors. Several numerical examples for two devices (diamond Schottky diode and GaN-on-SiC HEMT) are provided to highlight the effectiveness of the proposed DFO approach. 
+    
+    An assessment of three measurement-based models native to Keysight EDA Advanced Design System (ADS) is then provided, including a comprehensive DC and S-parameter geometry scaling and over-temperature study. The large-signal accuracy of these models is benchmarked against large-signal nonlinear vector network analyzer (NVNA) and load-pull validation data, demonstrating their robustness and suitability for practical system-level applications. A hybrid physical ASM-HEMT model is also presented, incorporating bias-dependent capacitance and resistance model parameters to address the limitations of measurement-based and physics-based models. This enhancement improves fitting for the device's junction capacitances and intrinsic resistances across a wide range of bias conditions. The accuracy of the hybrid model is further validated through X-parameters and dynamic load lines, highlighting its potential for modeling advanced and emerging GaN devices. Lastly, a summary of this dissertation is provided, along with a future outlook on the discussed topics.

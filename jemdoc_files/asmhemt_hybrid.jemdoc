@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{dfo_parameter_extraction.html}
+\n
+==== A Hybrid Physical ASM-HEMT Model Using a Neural Network-Based Methodology
+
+== Authors
+[https://rafapm.com Rafael Perez Martinez], [https://scholar.google.com/citations?user=fA5lbHUAAAAJ&hl=en Masaya Iwamoto], [https://www.annabanzer.com/ Ana B. Morgado], [https://scholar.google.com/citations?user=Ne4a3DMAAAAJ&hl=en Yiao Li], [https://www.linkedin.com/in/roberto-tinti-08699210/ Roberto Tinti], [https://www.linkedin.com/in/jianjun-xu-5a8682154 Jianjun Xu], Chad Gillease, Steven Cochran, [https://scholar.google.com/citations?user=igQgYrMAAAAJ&hl=en Bhawani Shankar], [https://www.linkedin.com/in/else-marie-schmidt-445a196 Else-Marie Schmidt], [https://www.linkedin.com/in/zijiansong Zijian Song], [https://www.linkedin.com/in/natalie-wagner-95048a24 Natalie Wagner], [https://scholar.google.com/citations?user=x_eWmzgAAAAJ&hl=en Philipp Pahl], [https://www.linkedin.com/in/alexander-petr-41026b37/en Alexander Petr], and [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury]
+
+== Manuscript (Pre-print)
+- [https://www.researchgate.net/publication/385764171_A_Hybrid_Physical_ASM-HEMT_Model_Using_a_Neural_Network-Based_Methodology {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
+- [files/asmhemt_hybrid_slides.pdf {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Slides]
+- [https://github.com/rafapm/asmhemt_hybrid {{<i class="fa fa-github-square" style="color: rgb(0, 3, 51);" aria-hidden="true">&nbsp;&nbsp;</i>}}Code]
+- [https://semiwiki.com/eda/keysight-eda/350213-gan-hemt-modeling-with-ann-parameters-targets-extensibility/ "Semiwiki: GaN HEMT modeling with ANN parameters targets extensibility"]
+
+== Abstract
+This work reports the first hybrid physical ASMHEMT model in a 150−nm GaN technology. The standard ASM-HEMT model is further enhanced by logically introducing bias-dependent capacitance and resistance model parameters to compensate for the missing physical behavior not captured by the model. This adaptation enhances the fitting of the device’s junction capacitances and intrinsic resistances across a wide range of bias conditions (from 15 to 500 mA/mm), proving particularly beneficial for non-standard or emerging device designs. To comprehensively evaluate the large-signal accuracy of the hybrid ASM-HEMT model, we provide large-signal data in the form of X-parameters and dynamic load lines, which result in good agreement to demonstrate the efficacy of adopting a hybrid physical modeling methodology.
+
