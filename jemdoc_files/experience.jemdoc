@@ -2,12 +2,12 @@
 == Experience
 
 == Education
-*Stanford University* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(140, 21, 21);" aria-hidden="true"></i>&nbsp; Stanford, CA</span><br>}}
+{{<b style="color: rgb(140, 21, 21);">Stanford University</b>}}{{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(140, 21, 21);" aria-hidden="true"></i>&nbsp; Stanford, CA</span><br>}}
 Ph.D. in Electrical Engineering {{<span style="float:right;">Sep. 2019 – Sep. 2024</span><br>}}
 M.S. in Electrical Engineering {{<span style="float:right;">Sep. 2019 – Jan. 2023</span><br>}}
 - *Ph.D. Thesis:* “[/phd_thesis.html Advancing mm-Wave GaN Technology Through Innovative Modeling Approaches]”
 
-*Georgia Institute of Technology* {{<span style="float: right; color: rgb(0, 48, 87);"><i class="fa fa-map-marker" style="color: rgb(0, 48, 87);" aria-hidden="true"></i>&nbsp; Atlanta, GA</span><br>}}
+{{<b style="color: rgb(0, 48, 87);">Georgia Institute of Technology</b>}}{{<span style="float: right; color: rgb(0, 48, 87);"><i class="fa fa-map-marker" style="color: rgb(0, 48, 87);" aria-hidden="true"></i>&nbsp; Atlanta, GA</span><br>}}
 M.S. in Electrical and Computer Engineering {{<span style="float:right;">Jan. 2017 – May 2019</span><br>}}
 B.S. in Electrical Engineering (/summa cum laude/) {{<span style="float:right;">Aug. 2013 – Dec. 2016</span><br>}}
 
@@ -24,9 +24,9 @@ Parameter Analyzer, SMUs, Spectrum Analyzer, Switching Matrix, Wafer Probing Sys
 - *CS Coursework:* Convex Optimization, Deep Learning, Essential Software Systems and Tools, Linear Dynamical Systems, Machine Learning, Natural Language Processing, Scientific Python
 
 == Professional Experience
-#*Broadcom, Inc.* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(204, 9, 47);" aria-hidden="true"></i>&nbsp; San Jose, CA
-#</span><br>}}
-#R&D Hardware Engineer {{<span style="float:right;">Jan. 2025 - Present</span><br>}} 
+*Broadcom, Inc.* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(204, 9, 47);" aria-hidden="true"></i>&nbsp; San Jose, CA
+</span><br>}}
+R&D Hardware Engineer {{<span style="float:right;">Jan. 2025 - Present</span><br>}} 
 
 *Keysight Technologies, Inc.* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(237, 28, 36);" aria-hidden="true"></i>&nbsp; Santa Clara, CA
 </span><br>}}
@@ -46,6 +46,10 @@ R&D Intern {{<span style="float:right;">Jun. 2022 - Sep. 2022</span><br>}}
 *Texas Instruments, Inc.* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(204, 0, 0);" aria-hidden="true"></i>&nbsp; Santa Clara, CA
 </span><br>}}
 IC Design Engineer Intern {{<span style="float:right;">Summer 2021</span><br>}}
+
+*Cisco Systems, Inc.* {{<span style="float: right;"><i class="fa fa-map-marker" style="color: rgb(0, 188, 235);" aria-hidden="true"></i>&nbsp; Morrisville, NC
+</span><br>}}
+Hardware Engineer Intern {{<span style="float:right;">Summer 2018</span><br>}}
 
 *School of Electrical and Computer Engineering, Georgia Tech* {{<span style="float: right; color: rgb(0, 48, 87);"><i class="fa fa-map-marker" style="color: rgb(0, 48, 87);" aria-hidden="true"></i>&nbsp; Atlanta, GA</span><br>}}
 Research Assistant {{<span style="float:right;">Aug. 2015 – Aug. 2019</span><br>}} 
