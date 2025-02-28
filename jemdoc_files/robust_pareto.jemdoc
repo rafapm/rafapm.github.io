@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{robust_pareto.html}
 \n
-==== Robust Pareto Design of GaN HEMTs for Millimeter-Wave Applications
+==== Robust Pareto Transistor Sizing of GaN HEMTs for Millimeter-Wave Applications
 
 == Authors
 [https://rafapm.com Rafael Perez Martinez], [https://stanford.edu/~boyd/ Stephen Boyd], and [https://profiles.stanford.edu/srabanti-chowdhury Srabanti Chowdhury]
 
 == Manuscript (Pre-print)
-- [https://arxiv.org/pdf/2406.17337 {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
+- [https://ieeexplore.ieee.org/abstract/document/10892100 {{<i class="fa fa-file-pdf-o" style="color:red;">&nbsp;&nbsp;</i>}}Paper]
 - [https://github.com/rafapm/robust_pareto_design {{<i class="fa fa-github-square" style="color: rgb(0, 3, 51);" aria-hidden="true">&nbsp;&nbsp;</i>}}Code]
 
 == Abstract

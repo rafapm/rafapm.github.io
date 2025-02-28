@@ -9,7 +9,7 @@ A method for extracting tens of parameters for compact models using derivative-f
 
 ~~~
 {}{img_left}{./images/pareto.png}{}{280px}{}{}
-== Multi-objective Optimization in Transistors
+== Multi-Objective Optimization in Transistors
 A robust Pareto optimization approach for solving a multi-objective optimization problem is shown. Based on several design variables and multiple objectives, several designs were evaluated based on their worst-case performance under varying conditions. A derivative-free optimization (DFO) method was utilized to identify robust Pareto optimal solutions, providing insights into the trade-offs involved. This approach offers a practical solution for multi-objective optimization in various engineering scenarios with multiple design variables and objectives.
 ~~~
 
